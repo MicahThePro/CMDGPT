@@ -17,9 +17,10 @@ CMDGPT is a GPT-powered Windows command-line assistant that translates natural l
 
 ## 🛠️ How to Install
 
-1. Open Command Prompt
-2. `cd` into the directory containing the cloned/extracted project
-3. Run this command:
+1. Extract the cmdgpt.zip
+2. Open Command Prompt
+3. `cd` into the directory containing the cloned/extracted project
+4. Run this command:
 
 ```bash
 python install_and_setup.py

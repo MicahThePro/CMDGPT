@@ -39,11 +39,7 @@ cmdgpt
 * `openai`
 * `pyperclip`
 
-Make sure you’ve installed these by running:
-
-```bash
-pip install openai pyperclip
-```
+Setup installs these. No need to do it yourself.
 
 ---
 

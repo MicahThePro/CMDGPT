@@ -1,4 +1,4 @@
-# 🧠 CMDGPT - MicahAI v0.1
+# 🧠 CMDGPT
 
 CMDGPT is a GPT-powered Windows command-line assistant that translates natural language into real executable CMD or PowerShell commands. MicahAI runs in your terminal and uses `gpt-4o-mini` to interpret your intent and execute commands on the fly — with retry logic, clipboard copying, and more.
 
